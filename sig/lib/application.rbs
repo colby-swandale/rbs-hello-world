@@ -1,0 +1,3 @@
+class Application
+  def hello: (String name) -> String
+end

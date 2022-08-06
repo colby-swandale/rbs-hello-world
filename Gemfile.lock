@@ -1,0 +1,12 @@
+GEM
+  specs:
+    rbs (2.6.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  rbs
+
+BUNDLED WITH
+   2.3.7
